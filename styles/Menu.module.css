@@ -1,0 +1,52 @@
+.PrincipalM {
+    display: flex;
+    background-color: rgba(0, 128, 0, 0.164);
+    justify-items: center;
+    text-align: center;
+    /* height: 100vh; */
+}
+.blocoImage {
+    display: flex;
+    /* border-bottom: black solid 2px; */
+    /* align-items: center; */
+    justify-content: space-between;
+    margin: 5px 10px;
+
+}
+.blocoInterno {
+    text-align: center;
+}
+.blocoInterno h2 {
+    font-size: .8em;
+   
+}
+.infoName {
+    background-color: red;
+    padding: 1px;
+    text-align: center;
+    width: 100%;
+    gap: 10px;
+   
+
+}
+.infoName h2 {
+    font-size: 1em;
+    text-align: center;
+    width: 100%;
+}
+.cadaNome {
+   width: 100%;
+   border-bottom: black solid 10px;
+}
+.cadaNome h2 {
+    text-align: center;
+}
+.centralizaImage {
+    text-align: center;
+}
+.centralizaImage img {
+    width: 100%;
+}
+.iconSlide {
+    font-size: 3.5em;
+}
